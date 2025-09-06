@@ -73,3 +73,4 @@ Tested on Arduino-ESP32 v2.0+ and M5Unified.
 Uses Preferences library to persist settings across restarts.
 
 BLE mouse emulation requires pairing once with your PC.
+
