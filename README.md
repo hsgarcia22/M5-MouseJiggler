@@ -55,7 +55,7 @@ Option 1: Compile with Arduino IDE
 
 5.Select M5StickC Plus2 under Boards.
 
-6.Compile and Upload the sketch (Mouse_Jiggler_OS_v316.ino).
+6.Compile and Upload the sketch (.ino).
 
 
 Option 2: Flash Prebuilt Firmware
@@ -64,7 +64,7 @@ If you just want to use it:
 
 1.Download M5Burner from M5Stack
 
-2.Load the custom firmware .bin via Custom URL.
+2.Load the custom firmware .bin
 
 3.Burn it directly to your M5StickC Plus2.
 
